@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+}
+
+.logo img{
+    width: 65px;
+    height: 65px;
+    margin-top: 5px;
+    margin-left: 17.5%;
+    margin-right: -10px;
+}
+
+.logo2 {
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    color: #3B58B8;
+    margin-top: -75px;
+    margin-left: 22.5%;
+}
+
+nav a{
+    float: right;
+}
+
+h1{
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+p{
+    text-align: justify;
+    text-indent: 2em;
+    padding-left: 15%;
+    padding-right: 15%;
+    line-height: 2;
+}
+.half{
+    text-align: justify;
+    text-indent: 2em;
+    padding-left: 15%;
+    padding-right: 15%;
+    line-height: 2;
+}
+
+.bold{
+    text-align: left;
+    padding-left: 15%;
+}
+
+ul{
+    padding-top: -15%;
+    padding-left: 15%;
+}
+
+.content{
+    padding-bottom: 15%;
+}
+
+footer{
+    padding-top: 10px;
+    padding-bottom: 62px;
+    background:#F2F2F2;
+    border-top: #848484 1px solid;
+   
+}
+
+.social_media{
+    margin-top: -40px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.social_media i{
+    padding-right: 20px;
+}
