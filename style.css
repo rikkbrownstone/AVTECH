@@ -22,13 +22,40 @@ body{
 
 nav a{
     float: right;
+    text-decoration: none;
 }
+
+.image img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.image2 img{
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+    }
 
 h1{
     font-family: 'Manrope', sans-serif;
     font-size: 30px;
     text-align: center;
     margin-top: 80px;
+}
+
+h3{
+    padding-left: 15%;
+    
+}
+
+h3 a{
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    color: #3B58B8;
+    text-decoration: none;
 }
 
 p{
