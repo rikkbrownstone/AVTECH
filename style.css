@@ -81,6 +81,15 @@ p{
     padding-right: 15%;
     line-height: 2;
 }
+
+.content2 {
+    text-align: left;
+    /* text-indent: 2em; */
+    padding-left: 5%;
+    /* padding-right: 15%; */
+    line-height: 2;
+    /* margin-top: 2px; */
+}
 .half{
     text-align: justify;
     text-indent: 2em;
