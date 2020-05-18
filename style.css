@@ -47,7 +47,9 @@ h1{
     font-family: 'Manrope', sans-serif;
     font-size: 30px;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-weight: 5;
 }
 
 h3{
@@ -95,9 +97,22 @@ ul{
     padding-left: 15%;
 }
 
-.content{
-    padding-bottom: 5%;
+.links a{
+    text-indent: 6em;
+    text-decoration: none;
 }
+
+/* .links li{
+    text-indent: 6em;
+} */
+
+ul{
+    list-style: none;
+}
+
+/* .content{
+    padding-bottom: 1%;
+} */
 
 footer{
     padding-top: 10px;
