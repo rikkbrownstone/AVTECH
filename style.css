@@ -83,6 +83,9 @@ p{
     font-family: 'arial';
 }
 
+.content{
+    font-family: 'Arial';
+}
 .content2 {
     text-align: left;
     /* text-indent: 2em; */
@@ -111,6 +114,7 @@ ul{
 
 .links a{
     text-indent: 6em;
+    font-family: 'Arial';
     /* text-decoration: none; */
 }
 
