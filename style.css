@@ -80,6 +80,7 @@ p{
     padding-left: 15%;
     padding-right: 15%;
     line-height: 2;
+    font-family: 'arial';
 }
 
 .content2 {
@@ -110,7 +111,7 @@ ul{
 
 .links a{
     text-indent: 6em;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 /* .links li{
