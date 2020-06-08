@@ -81,7 +81,8 @@ p{
     padding-right: 15%;
     line-height: 2;
     font-family: 'arial';
-    color:#424242 ;
+    color:#424242;
+    font-size: 15px;
 }
 
 .content{
